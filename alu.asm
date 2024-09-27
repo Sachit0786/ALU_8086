@@ -34,7 +34,7 @@ MOV DS, AX
 
 Start:                  ;Start Lable
 
-print '                  --- WORKING OF ALU ---    '  
+print '                  --- WORKING OF CALCULATOR ---    '  
 printn      ;New Line
 
 printn
